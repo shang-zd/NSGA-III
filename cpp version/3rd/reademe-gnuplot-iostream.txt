@@ -1,0 +1,8 @@
+More informations about the gnuplot-interface can be found at:
+http://www.gnuplot.info/links.html
+
+The gnuplot-interface requires COMPILED boost to support file iostream.
+Examples can be found at 
+http://stahlke.org/dan/gnuplot-iostream/
+https://github.com/dstahlke/gnuplot-iostream
+
