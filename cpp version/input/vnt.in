@@ -1,0 +1,14 @@
+AdaptiveNsga	=	0
+PopulationSize	=	200
+GenerationAmount	=	200
+ObjNumber	=	3
+InEqConNumber	=	0
+EqConNumber	=	0
+RealVar	=	2
+RealLowerBounds1	=	-3	3
+RealLowerBounds2	=	-3	3
+ProbabilityCross	=	0.9
+ProbabilityMutation	=	0.15
+EtaC	=	10
+EtaM	=	20
+BinVar	=	0
